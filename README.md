@@ -25,7 +25,7 @@ Além disso, gera um gráfico simples mostrando a quantidade de cadastros por ci
    ```
 5. Arquivos gerados:
    - `dados_tratados.xlsx` (planilha limpa)
-   - `grafico_cadastros_por_cidade.png` (gráfico de barras)
+   - `grafico_exemplo_readme.png` (gráfico de barras)
 
 ## Estrutura do projeto
 ```
