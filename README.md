@@ -36,8 +36,8 @@ Além disso, gera um gráfico simples mostrando a quantidade de cadastros por ci
 └── dados
     ├── dados_brutos.xlsx
     ├── dados_tratados.xlsx
-    └── grafico_cadastros_por_cidade.png
+    └── grafico_exemplo_readme.png
 ```
 
 ## Exemplo de Gráfico Gerado
-![Exemplo de Gráfico](dados/grafico_exemplo_readme.png)
+![Exemplo de Gráfico](grafico_exemplo_readme.png)
